@@ -7,7 +7,7 @@
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
-Meu nome é Isaac Barreto, 23 anos, Programador Tr!
+Meu nome é Isaac Barreto, 24 anos, Programador Tr!
 
 - :office_worker: Programador TR IV na Uranet Projetos e Sistemas
 - :blue_heart: Stack: PHP, JS, Jquery, CSS3, HTML5, MySQL
