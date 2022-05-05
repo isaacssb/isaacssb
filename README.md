@@ -9,9 +9,9 @@
 
 Meu nome é Isaac Barreto, 24 anos, Programador Tr!
 
-- :office_worker: Programador TR IV na Uranet Projetos e Sistemas
+- :office_worker: Programador JR na Uranet Projetos e Sistemas
 - :blue_heart: Stack: PHP, JS, Jquery, CSS3, HTML5, MySQL
-- :books: Estudando: Node.js, express.js
+- :books: Estudando: Design Patterns em PHP 
 
 > :octocat: []()
 
