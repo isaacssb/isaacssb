@@ -7,11 +7,11 @@
 
 ## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
 
-Meu nome é Isaac Barreto, 24 anos, Programador Tr!
+Meu nome é Isaac Barreto, 24 anos, Programador Jr!
 
 - :office_worker: Programador JR na Uranet Projetos e Sistemas
-- :blue_heart: Stack: PHP, JS, Jquery, CSS3, HTML5, MySQL
-- :books: Estudando: Design Patterns em PHP 
+- :blue_heart: Stack: PHP, JS, Jquery, CSS3, HTML5, MySQL, SQL Server
+- :books: Estudando: Design Patterns em PHP
 
 > :octocat: []()
 
