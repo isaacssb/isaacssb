@@ -5,7 +5,7 @@
 
 
 
-## Olá! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22px">
+## Olá! 
 
 Meu nome é Isaac Barreto, 24 anos, Programador Jr!
 
