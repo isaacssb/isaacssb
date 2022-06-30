@@ -1,7 +1,7 @@
 # :man_technologist: Isaac Barreto
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/isaac-barreto-3b3a57113/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whiteins)](https://www.instagram.com/isaac.barreto.7/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whiteins)](https://www.instagram.com/isaacbar.dev/)
 
 
 
